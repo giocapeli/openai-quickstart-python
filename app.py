@@ -34,3 +34,6 @@ Animal: {}
 Names:""".format(
         animal.capitalize()
     )
+
+if __name__ == '__main__':
+    app.run()
